@@ -28,6 +28,7 @@ MonoBehaviour:
   ItemName: 
   ItemSprite: {fileID: 21300000, guid: 0e048954ff684ea4bb775a9845653428, type: 3}
   Description: 
-  WorldObjectPrefab: {fileID: 0}
+  WorldObjectPrefab: {fileID: 3613217881743831505, guid: 916d205a860f50a408084e75d5221c73,
+    type: 3}
   UsageEffects:
   - {fileID: -5131963023998068813}

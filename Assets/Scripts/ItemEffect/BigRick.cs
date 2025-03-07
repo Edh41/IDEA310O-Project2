@@ -11,6 +11,8 @@ public class BigRick : UsableItem.UsageEffect
 {
     public override bool Use(CharacterData user)
     {
+        StatSystem.StatModifier strengthMod = new StatSystem.StatModifier();
+        strengthMod.Stats.strength = 20;
         return true;
     }
 }
